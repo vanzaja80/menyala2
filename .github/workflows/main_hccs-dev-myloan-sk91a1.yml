@@ -65,4 +65,4 @@ jobs:
           app-name: 'hccs-dev-myloan-sk91a1'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BE75A473A9714A158572CF55497673AE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A0443B6FC8934990A8CC47BF3C4C55E7 }}
